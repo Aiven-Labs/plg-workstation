@@ -3,6 +3,6 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/mysql-homebrew:1": {},
 		"ghcr.io/robbert229/devcontainer-features/postgresql-client:1": {},
-		"ghcr.io/devcontainers-contrib/features/pulumi:1": {}
+		"ghcr.io/devcontainers-contrib/features/neovim": {}
 	}
 }
